@@ -15,15 +15,15 @@ Some Work
 
 Over the years I have published in a number of different fields. I am trying to show that computing and information science knowledge can be used for a critical understanding of digital societies. I am also really interested in pushing data science techniques to target difference and discontinuities and not just large-scale patterns. Finally, I enjoy working with others on integrating resources and knowledge. 
 
-- How can describe growing platform monopolisation differently? The Material Conditions of Platforms [:closed_book:](https://journals.sagepub.com/doi/pdf/10.1177/2056305120971632) looks at monopolisation through decentralisation in the mobile ecosystem.
+- How can describe growing platform monopolisation differently? The article [Material Conditions of Platforms] (https://journals.sagepub.com/doi/pdf/10.1177/2056305120971632) looks at monopolisation through decentralisation in the mobile ecosystem.
 
-- What would data science look like for critical humanities interests? We attempt an answer in [Computational genealogy](https://www.tandfonline.com/doi/full/10.1080/01615440.2019.1684859).
+- What would data science look like for critical humanities interests? We attempt an answer in [Computational Genealogy](https://www.tandfonline.com/doi/full/10.1080/01615440.2019.1684859).
 
-- How is the 'other' made by algorithms? The technologies developed for the 'war on terror' can give us an idea: [Governing others: Anomaly and the algorithmic subject of security](https://www.cambridge.org/core/journals/european-journal-of-international-security/article/abs/governing-others-anomaly-and-the-algorithmic-subject-of-security/).
+- How is the 'other' made by algorithms? The technologies developed for the 'war on terror' can give us an idea: [Governing Others: Anomaly and the Algorithmic Subject of Security](https://www.cambridge.org/core/journals/european-journal-of-international-security/article/abs/governing-others-anomaly-and-the-algorithmic-subject-of-security/).
 
 - In the [European Holocaust Research Infrastructure](http://ehri-project.eu), we have used novel graph databases to heterogeneous humanities knowledge since 2012. [Integrating Holocaust Research](https://www.euppublishing.com/doi/abs/10.3366/ijhac.2013.0080) still provides a good introduction.
 
-- 'Scholarly primitives' can help understand how computing and humanities research can come together, as we present in [Scholarly primitives: Building institutional infrastructure for humanities e-Science](https://www.sciencedirect.com/science/article/abs/pii/S0167739X11001178).
+- 'Scholarly primitives' can help understand how computing and humanities research can come together, as we present in [Scholarly Primitives](https://www.sciencedirect.com/science/article/abs/pii/S0167739X11001178).
 
 
 
