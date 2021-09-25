@@ -15,7 +15,7 @@ Some Work
 
 Over the years I have published in a number of different fields. I am trying to show that computing and information science knowledge can be used for a critical understanding of digital societies. I am also really interested in pushing data science techniques to target difference and discontinuities and not just large-scale patterns. Finally, I enjoy working with others on integrating resources and knowledge. 
 
-- How can describe growing platform monopolisation differently? The Material Conditions of Platforms [:closed_book:] (https://journals.sagepub.com/doi/pdf/10.1177/2056305120971632) looks at monopolisation through decentralisation in the mobile ecosystem.
+- How can describe growing platform monopolisation differently? The Material Conditions of Platforms [:closed_book:](https://journals.sagepub.com/doi/pdf/10.1177/2056305120971632) looks at monopolisation through decentralisation in the mobile ecosystem.
 
 - What would data science look like for critical humanities interests? We attempt an answer in [Computational genealogy](https://www.tandfonline.com/doi/full/10.1080/01615440.2019.1684859).
 
