@@ -17,13 +17,13 @@ Over the years I have published in a number of different fields. I am trying to 
 
 - How can describe growing platform monopolisation differently? The article [Material Conditions of Platforms] (https://journals.sagepub.com/doi/pdf/10.1177/2056305120971632) looks at monopolisation through decentralisation in the mobile ecosystem.
 
-- What would data science look like for critical humanities interests? We attempt an answer in [Computational Genealogy](https://www.tandfonline.com/doi/full/10.1080/01615440.2019.1684859).
+- What would data science look like for critical humanities interests? We attempt an answer in [Computational Genealogy](https://www.tandfonline.com/doi/pdf/10.1080/01615440.2019.1684859?casa_token=UwDllgv8ih8AAAAA%3AE_dzKTk0OS4SwtAXj5kIeN_tuRStxzlps5nki6w5rfiYMqsV1-GQQIRryK5LsIUbemltebrpfIOIv3U&).
 
-- How is the 'other' made by algorithms? The technologies developed for the 'war on terror' can give us an idea: [Governing Others: Anomaly and the Algorithmic Subject of Security](https://www.cambridge.org/core/journals/european-journal-of-international-security/article/abs/governing-others-anomaly-and-the-algorithmic-subject-of-security/).
+- How is the 'other' made by algorithms? The technologies developed for the 'war on terror' can give us an idea: [Governing Others: Anomaly and the Algorithmic Subject of Security](https://bit.ly/3o7wn2E).
 
-- In the [European Holocaust Research Infrastructure](http://ehri-project.eu), we have used novel graph databases to heterogeneous humanities knowledge since 2012. [Integrating Holocaust Research](https://www.euppublishing.com/doi/abs/10.3366/ijhac.2013.0080) still provides a good introduction.
+- In the [European Holocaust Research Infrastructure](http://ehri-project.eu), we have used novel graph databases to heterogeneous humanities knowledge since 2012. [Integrating Holocaust Research](https://bit.ly/3oaTxF9) still provides a good introduction.
 
-- 'Scholarly primitives' can help understand how computing and humanities research can come together, as we present in [Scholarly Primitives](https://www.sciencedirect.com/science/article/abs/pii/S0167739X11001178).
+- 'Scholarly primitives' can help understand how computing and humanities research can come together, as we present in [Scholarly Primitives](https://bit.ly/39GDw16).
 
 
 
